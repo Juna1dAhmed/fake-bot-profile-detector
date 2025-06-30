@@ -85,7 +85,7 @@ POST /predict
 
 **Junaid Chandio**  
 Machine Learning Contributor  
-[LinkedIn](www.linkedin.com/in/juna1d-ahmed)
+[LinkedIn](https://www.linkedin.com/in/juna1d-ahmed/)
 
 ---
 
